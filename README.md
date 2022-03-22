@@ -27,7 +27,8 @@ The goal of this project is to show my portifolio to the world.
 
 
 ## Setup
-Visual Studio as IDE
+* Visual Studio as IDE
+* SQL Server as database
 
 ## Features
 Features ready:

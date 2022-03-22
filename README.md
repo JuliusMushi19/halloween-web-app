@@ -35,7 +35,6 @@ Features ready:
 
 To-do list:
 * Implement the check out function
-* 
 
 ## Status
 Project is: _in progress_

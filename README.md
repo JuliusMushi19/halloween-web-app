@@ -1,5 +1,5 @@
 # Halloween Web App
-> An ASP.NET web application to shop for halloween products.
+> Web application to shop for halloween products.
 
 ## Table of contents
 * [General info](#general-info)
